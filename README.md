@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, artificial intelligence, aerospace engineering, and autonomous programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects involving robotics (hardware/software).
-- 📫 Reach me at saakasher@gmail.com
+- 📫 Reach me at saakashsathyan.ae@gmail.com
 
 <!---
 saakasher7/saakasher7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
