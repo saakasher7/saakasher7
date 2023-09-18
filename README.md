@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Saakash Sathyan (@saakasher7); I am a junior at [Folsom High School](https://www.fcusd.org/fhs).
-- 👀 I’m interested in robotics, artificial intelligence, and autonomous programming.
+- 👋 Hi, I’m Saakash Sathyan (@saakasher7); I am a freshman at [Embry-Riddle Aeronautical University - Prescott](https://prescott.erau.edu/).
+- 👀 I’m interested in robotics, artificial intelligence, aerospace engineering, and autonomous programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects involving robotics (hardware/software).
 - 📫 Reach me at saakasher@gmail.com
